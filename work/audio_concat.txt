@@ -1,0 +1,4 @@
+file 'C:/Users/rensa/hyperframes/audio/1.mp3'
+file 'C:/Users/rensa/hyperframes/audio/2.mp3'
+file 'C:/Users/rensa/hyperframes/audio/3.mp3'
+file 'C:/Users/rensa/hyperframes/audio/4.mp3'

@@ -1,0 +1,2855 @@
+[
+ {
+  "n": 1,
+  "start": 0.13,
+  "end": 4.04,
+  "image": "images/001_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270552.jpeg",
+  "held": false,
+  "w0": 0,
+  "w1": 11
+ },
+ {
+  "n": 2,
+  "start": 4.04,
+  "end": 17.16,
+  "image": "images/002_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270553.jpeg",
+  "held": false,
+  "w0": 12,
+  "w1": 47
+ },
+ {
+  "n": 3,
+  "start": 17.16,
+  "end": 20.36,
+  "image": "images/003_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270554.jpeg",
+  "held": false,
+  "w0": 48,
+  "w1": 58
+ },
+ {
+  "n": 4,
+  "start": 20.36,
+  "end": 32.92,
+  "image": "images/004_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270555.jpeg",
+  "held": false,
+  "w0": 59,
+  "w1": 91
+ },
+ {
+  "n": 5,
+  "start": 32.92,
+  "end": 39.52,
+  "image": "images/005_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270555.jpeg",
+  "held": false,
+  "w0": 92,
+  "w1": 110
+ },
+ {
+  "n": 6,
+  "start": 39.52,
+  "end": 44.48,
+  "image": "images/006_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270556.jpeg",
+  "held": false,
+  "w0": 111,
+  "w1": 124
+ },
+ {
+  "n": 7,
+  "start": 44.48,
+  "end": 49.68,
+  "image": "images/007_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270557.jpeg",
+  "held": false,
+  "w0": 125,
+  "w1": 138
+ },
+ {
+  "n": 8,
+  "start": 49.68,
+  "end": 54.4,
+  "image": "images/008_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270558.jpeg",
+  "held": false,
+  "w0": 139,
+  "w1": 150
+ },
+ {
+  "n": 9,
+  "start": 54.44,
+  "end": 61.92,
+  "image": "images/009_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270559.jpeg",
+  "held": false,
+  "w0": 151,
+  "w1": 172
+ },
+ {
+  "n": 10,
+  "start": 61.92,
+  "end": 67.56,
+  "image": "images/010_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270559.jpeg",
+  "held": false,
+  "w0": 173,
+  "w1": 186
+ },
+ {
+  "n": 11,
+  "start": 67.56,
+  "end": 77.98,
+  "image": "images/011_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270600.jpeg",
+  "held": false,
+  "w0": 187,
+  "w1": 214
+ },
+ {
+  "n": 12,
+  "start": 77.98,
+  "end": 88.32,
+  "image": "images/012_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270602.jpeg",
+  "held": false,
+  "w0": 215,
+  "w1": 244
+ },
+ {
+  "n": 13,
+  "start": 88.32,
+  "end": 91.76,
+  "image": "images/013_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270603.jpeg",
+  "held": false,
+  "w0": 245,
+  "w1": 252
+ },
+ {
+  "n": 14,
+  "start": 91.76,
+  "end": 94.48,
+  "image": "images/014_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270604.jpeg",
+  "held": false,
+  "w0": 253,
+  "w1": 258
+ },
+ {
+  "n": 15,
+  "start": 94.48,
+  "end": 99.64,
+  "image": "images/015_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270604.jpeg",
+  "held": false,
+  "w0": 259,
+  "w1": 270
+ },
+ {
+  "n": 16,
+  "start": 99.64,
+  "end": 102.76,
+  "image": "images/016_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270606.jpeg",
+  "held": false,
+  "w0": 271,
+  "w1": 277
+ },
+ {
+  "n": 17,
+  "start": 102.76,
+  "end": 107.12,
+  "image": "images/017_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270607.jpeg",
+  "held": false,
+  "w0": 278,
+  "w1": 289
+ },
+ {
+  "n": 18,
+  "start": 107.12,
+  "end": 113.76,
+  "image": "images/018_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270608.jpeg",
+  "held": false,
+  "w0": 290,
+  "w1": 306
+ },
+ {
+  "n": 19,
+  "start": 113.76,
+  "end": 117.12,
+  "image": "images/019_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270609.jpeg",
+  "held": false,
+  "w0": 307,
+  "w1": 315
+ },
+ {
+  "n": 20,
+  "start": 117.12,
+  "end": 124.84,
+  "image": "images/020_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270610.jpeg",
+  "held": false,
+  "w0": 316,
+  "w1": 332
+ },
+ {
+  "n": 21,
+  "start": 124.84,
+  "end": 127.6,
+  "image": "images/021_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270610.jpeg",
+  "held": false,
+  "w0": 333,
+  "w1": 337
+ },
+ {
+  "n": 22,
+  "start": 127.6,
+  "end": 135.08,
+  "image": "images/022_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270611.jpeg",
+  "held": false,
+  "w0": 338,
+  "w1": 359
+ },
+ {
+  "n": 23,
+  "start": 135.08,
+  "end": 144.72,
+  "image": "images/023_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270612.jpeg",
+  "held": false,
+  "w0": 360,
+  "w1": 385
+ },
+ {
+  "n": 24,
+  "start": 144.72,
+  "end": 147.4,
+  "image": "images/024_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270613.jpeg",
+  "held": false,
+  "w0": 386,
+  "w1": 391
+ },
+ {
+  "n": 25,
+  "start": 147.4,
+  "end": 151.16,
+  "image": "images/025_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270614.jpeg",
+  "held": false,
+  "w0": 392,
+  "w1": 397
+ },
+ {
+  "n": 26,
+  "start": 151.16,
+  "end": 167.28,
+  "image": "images/026_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270615.jpeg",
+  "held": false,
+  "w0": 398,
+  "w1": 445
+ },
+ {
+  "n": 27,
+  "start": 167.36,
+  "end": 174.6,
+  "image": "images/027_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270616.jpeg",
+  "held": false,
+  "w0": 446,
+  "w1": 466
+ },
+ {
+  "n": 28,
+  "start": 174.6,
+  "end": 178.52,
+  "image": "images/028_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270617.jpeg",
+  "held": false,
+  "w0": 467,
+  "w1": 470
+ },
+ {
+  "n": 29,
+  "start": 178.52,
+  "end": 181.08,
+  "image": "images/029_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270618.jpeg",
+  "held": false,
+  "w0": 471,
+  "w1": 475
+ },
+ {
+  "n": 30,
+  "start": 181.08,
+  "end": 181.51,
+  "image": "images/030_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270619.jpeg",
+  "held": false,
+  "w0": 476,
+  "w1": 477
+ },
+ {
+  "n": 31,
+  "start": 181.51,
+  "end": 188.6,
+  "image": "images/031_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270620.jpeg",
+  "held": false,
+  "w0": 478,
+  "w1": 498
+ },
+ {
+  "n": 32,
+  "start": 188.6,
+  "end": 192.92,
+  "image": "images/032_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270620.jpeg",
+  "held": false,
+  "w0": 499,
+  "w1": 507
+ },
+ {
+  "n": 33,
+  "start": 192.92,
+  "end": 195.68,
+  "image": "images/033_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270621.jpeg",
+  "held": false,
+  "w0": 508,
+  "w1": 513
+ },
+ {
+  "n": 34,
+  "start": 195.68,
+  "end": 199.8,
+  "image": "images/034_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270622.jpeg",
+  "held": false,
+  "w0": 514,
+  "w1": 524
+ },
+ {
+  "n": 35,
+  "start": 199.8,
+  "end": 203.56,
+  "image": "images/035_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270623.jpeg",
+  "held": false,
+  "w0": 525,
+  "w1": 531
+ },
+ {
+  "n": 36,
+  "start": 203.56,
+  "end": 211.32,
+  "image": "images/036_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270624.jpeg",
+  "held": false,
+  "w0": 532,
+  "w1": 551
+ },
+ {
+  "n": 37,
+  "start": 211.32,
+  "end": 213.72,
+  "image": "images/037_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270625.jpeg",
+  "held": false,
+  "w0": 552,
+  "w1": 556
+ },
+ {
+  "n": 38,
+  "start": 213.72,
+  "end": 218.96,
+  "image": "images/038_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270626.jpeg",
+  "held": false,
+  "w0": 557,
+  "w1": 566
+ },
+ {
+  "n": 39,
+  "start": 218.96,
+  "end": 221.6,
+  "image": "images/039_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270627.jpeg",
+  "held": false,
+  "w0": 567,
+  "w1": 574
+ },
+ {
+  "n": 40,
+  "start": 221.6,
+  "end": 223.96,
+  "image": "images/040_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270628.jpeg",
+  "held": false,
+  "w0": 575,
+  "w1": 577
+ },
+ {
+  "n": 41,
+  "start": 223.99,
+  "end": 228.92,
+  "image": "images/041_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270629.jpeg",
+  "held": false,
+  "w0": 578,
+  "w1": 592
+ },
+ {
+  "n": 42,
+  "start": 228.92,
+  "end": 232.96,
+  "image": "images/042_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270630.jpeg",
+  "held": false,
+  "w0": 593,
+  "w1": 602
+ },
+ {
+  "n": 43,
+  "start": 232.96,
+  "end": 235.48,
+  "image": "images/043_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270631.jpeg",
+  "held": false,
+  "w0": 603,
+  "w1": 606
+ },
+ {
+  "n": 44,
+  "start": 235.48,
+  "end": 240.62,
+  "image": "images/044_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270632.jpeg",
+  "held": false,
+  "w0": 607,
+  "w1": 619
+ },
+ {
+  "n": 45,
+  "start": 240.62,
+  "end": 245.24,
+  "image": "images/045_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270633.jpeg",
+  "held": false,
+  "w0": 620,
+  "w1": 632
+ },
+ {
+  "n": 46,
+  "start": 245.24,
+  "end": 252.48,
+  "image": "images/046_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270634.jpeg",
+  "held": false,
+  "w0": 633,
+  "w1": 651
+ },
+ {
+  "n": 47,
+  "start": 252.51,
+  "end": 256.72,
+  "image": "images/047_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270635.jpeg",
+  "held": false,
+  "w0": 652,
+  "w1": 659
+ },
+ {
+  "n": 48,
+  "start": 256.72,
+  "end": 264.68,
+  "image": "images/048_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270636.jpeg",
+  "held": false,
+  "w0": 660,
+  "w1": 679
+ },
+ {
+  "n": 49,
+  "start": 264.68,
+  "end": 268.24,
+  "image": "images/049_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270637.jpeg",
+  "held": false,
+  "w0": 680,
+  "w1": 687
+ },
+ {
+  "n": 50,
+  "start": 268.24,
+  "end": 273.08,
+  "image": "images/050_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270637.jpeg",
+  "held": false,
+  "w0": 688,
+  "w1": 703
+ },
+ {
+  "n": 51,
+  "start": 273.08,
+  "end": 276.86,
+  "image": "images/051_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270638.jpeg",
+  "held": false,
+  "w0": 704,
+  "w1": 709
+ },
+ {
+  "n": 52,
+  "start": 276.86,
+  "end": 280.16,
+  "image": "images/052_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270639.jpeg",
+  "held": false,
+  "w0": 710,
+  "w1": 718
+ },
+ {
+  "n": 53,
+  "start": 280.25,
+  "end": 282.48,
+  "image": "images/053_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270640.jpeg",
+  "held": false,
+  "w0": 719,
+  "w1": 723
+ },
+ {
+  "n": 54,
+  "start": 282.48,
+  "end": 285.72,
+  "image": "images/054_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270641.jpeg",
+  "held": false,
+  "w0": 724,
+  "w1": 727
+ },
+ {
+  "n": 55,
+  "start": 285.72,
+  "end": 288.68,
+  "image": "images/055_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270642.jpeg",
+  "held": false,
+  "w0": 728,
+  "w1": 736
+ },
+ {
+  "n": 56,
+  "start": 288.68,
+  "end": 291.2,
+  "image": "images/056_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270643.jpeg",
+  "held": false,
+  "w0": 737,
+  "w1": 740
+ },
+ {
+  "n": 57,
+  "start": 291.2,
+  "end": 294.04,
+  "image": "images/057_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270644.jpeg",
+  "held": false,
+  "w0": 741,
+  "w1": 748
+ },
+ {
+  "n": 58,
+  "start": 294.04,
+  "end": 298.72,
+  "image": "images/058_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270645.jpeg",
+  "held": false,
+  "w0": 749,
+  "w1": 759
+ },
+ {
+  "n": 59,
+  "start": 298.72,
+  "end": 305.96,
+  "image": "images/059_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270646.jpeg",
+  "held": false,
+  "w0": 760,
+  "w1": 781
+ },
+ {
+  "n": 60,
+  "start": 305.96,
+  "end": 308.88,
+  "image": "images/060_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270647.jpeg",
+  "held": false,
+  "w0": 782,
+  "w1": 787
+ },
+ {
+  "n": 61,
+  "start": 308.93,
+  "end": 312.08,
+  "image": "images/061_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270648.jpeg",
+  "held": false,
+  "w0": 788,
+  "w1": 794
+ },
+ {
+  "n": 62,
+  "start": 312.08,
+  "end": 321.12,
+  "image": "images/062_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270649.jpeg",
+  "held": false,
+  "w0": 795,
+  "w1": 820
+ },
+ {
+  "n": 63,
+  "start": 321.12,
+  "end": 329.28,
+  "image": "images/063_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270650.jpeg",
+  "held": false,
+  "w0": 821,
+  "w1": 840
+ },
+ {
+  "n": 64,
+  "start": 329.28,
+  "end": 335.52,
+  "image": "images/064_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270651.jpeg",
+  "held": false,
+  "w0": 841,
+  "w1": 855
+ },
+ {
+  "n": 65,
+  "start": 335.52,
+  "end": 338.2,
+  "image": "images/065_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270652.jpeg",
+  "held": false,
+  "w0": 856,
+  "w1": 858
+ },
+ {
+  "n": 66,
+  "start": 338.24,
+  "end": 341.24,
+  "image": "images/066_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270654.jpeg",
+  "held": false,
+  "w0": 859,
+  "w1": 863
+ },
+ {
+  "n": 67,
+  "start": 341.24,
+  "end": 344.2,
+  "image": "images/067_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270655.jpeg",
+  "held": false,
+  "w0": 864,
+  "w1": 867
+ },
+ {
+  "n": 68,
+  "start": 344.2,
+  "end": 349.32,
+  "image": "images/068_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270656.jpeg",
+  "held": false,
+  "w0": 868,
+  "w1": 884
+ },
+ {
+  "n": 69,
+  "start": 349.32,
+  "end": 352.84,
+  "image": "images/069_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270657.jpeg",
+  "held": false,
+  "w0": 885,
+  "w1": 892
+ },
+ {
+  "n": 70,
+  "start": 352.84,
+  "end": 355.72,
+  "image": "images/070_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270658.jpeg",
+  "held": false,
+  "w0": 893,
+  "w1": 898
+ },
+ {
+  "n": 71,
+  "start": 355.72,
+  "end": 360.84,
+  "image": "images/071_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270658.jpeg",
+  "held": false,
+  "w0": 899,
+  "w1": 911
+ },
+ {
+  "n": 72,
+  "start": 360.84,
+  "end": 364.84,
+  "image": "images/072_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270700.jpeg",
+  "held": false,
+  "w0": 912,
+  "w1": 923
+ },
+ {
+  "n": 73,
+  "start": 364.84,
+  "end": 367.44,
+  "image": "images/073_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270701.jpeg",
+  "held": false,
+  "w0": 924,
+  "w1": 927
+ },
+ {
+  "n": 74,
+  "start": 367.44,
+  "end": 371.48,
+  "image": "images/074_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270702.jpeg",
+  "held": false,
+  "w0": 928,
+  "w1": 937
+ },
+ {
+  "n": 75,
+  "start": 371.48,
+  "end": 372.48,
+  "image": "images/075_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270703.jpeg",
+  "held": false,
+  "w0": 938,
+  "w1": 939
+ },
+ {
+  "n": 76,
+  "start": 372.48,
+  "end": 375.4,
+  "image": "images/076_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270704.jpeg",
+  "held": false,
+  "w0": 940,
+  "w1": 946
+ },
+ {
+  "n": 77,
+  "start": 375.4,
+  "end": 376.72,
+  "image": "images/077_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270705.jpeg",
+  "held": false,
+  "w0": 947,
+  "w1": 948
+ },
+ {
+  "n": 78,
+  "start": 376.72,
+  "end": 386.6,
+  "image": "images/078_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270706.jpeg",
+  "held": false,
+  "w0": 949,
+  "w1": 974
+ },
+ {
+  "n": 79,
+  "start": 386.6,
+  "end": 391.72,
+  "image": "images/079_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270707.jpeg",
+  "held": false,
+  "w0": 975,
+  "w1": 988
+ },
+ {
+  "n": 80,
+  "start": 391.72,
+  "end": 395.64,
+  "image": "images/080_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270708.jpeg",
+  "held": false,
+  "w0": 989,
+  "w1": 996
+ },
+ {
+  "n": 81,
+  "start": 395.64,
+  "end": 399.08,
+  "image": "images/081_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270709.jpeg",
+  "held": false,
+  "w0": 997,
+  "w1": 1006
+ },
+ {
+  "n": 82,
+  "start": 399.08,
+  "end": 401.44,
+  "image": "images/082_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270710.jpeg",
+  "held": false,
+  "w0": 1007,
+  "w1": 1010
+ },
+ {
+  "n": 83,
+  "start": 401.44,
+  "end": 406.76,
+  "image": "images/083_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270711.jpeg",
+  "held": false,
+  "w0": 1011,
+  "w1": 1025
+ },
+ {
+  "n": 84,
+  "start": 406.76,
+  "end": 414.28,
+  "image": "images/084_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270712.jpeg",
+  "held": false,
+  "w0": 1026,
+  "w1": 1045
+ },
+ {
+  "n": 85,
+  "start": 414.28,
+  "end": 420.08,
+  "image": "images/085_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270713.jpeg",
+  "held": false,
+  "w0": 1046,
+  "w1": 1059
+ },
+ {
+  "n": 86,
+  "start": 420.08,
+  "end": 423.64,
+  "image": "images/086_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270714.jpeg",
+  "held": false,
+  "w0": 1060,
+  "w1": 1068
+ },
+ {
+  "n": 87,
+  "start": 423.71,
+  "end": 428.48,
+  "image": "images/087_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270715.jpeg",
+  "held": false,
+  "w0": 1069,
+  "w1": 1080
+ },
+ {
+  "n": 88,
+  "start": 428.48,
+  "end": 430.48,
+  "image": "images/088_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270715.jpeg",
+  "held": false,
+  "w0": 1081,
+  "w1": 1083
+ },
+ {
+  "n": 89,
+  "start": 430.48,
+  "end": 433.16,
+  "image": "images/089_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270716.jpeg",
+  "held": false,
+  "w0": 1084,
+  "w1": 1087
+ },
+ {
+  "n": 90,
+  "start": 433.16,
+  "end": 434.16,
+  "image": "images/090_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270717.jpeg",
+  "held": false,
+  "w0": 1088,
+  "w1": 1088
+ },
+ {
+  "n": 91,
+  "start": 434.16,
+  "end": 437.04,
+  "image": "images/091_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270718.jpeg",
+  "held": false,
+  "w0": 1089,
+  "w1": 1094
+ },
+ {
+  "n": 92,
+  "start": 437.04,
+  "end": 439.32,
+  "image": "images/092_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270719.jpeg",
+  "held": false,
+  "w0": 1095,
+  "w1": 1097
+ },
+ {
+  "n": 93,
+  "start": 439.32,
+  "end": 442.76,
+  "image": "images/093_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270720.jpeg",
+  "held": false,
+  "w0": 1098,
+  "w1": 1101
+ },
+ {
+  "n": 94,
+  "start": 442.76,
+  "end": 449.64,
+  "image": "images/094_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270721.jpeg",
+  "held": false,
+  "w0": 1102,
+  "w1": 1121
+ },
+ {
+  "n": 95,
+  "start": 449.64,
+  "end": 452.8,
+  "image": "images/095_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270722.jpeg",
+  "held": false,
+  "w0": 1122,
+  "w1": 1129
+ },
+ {
+  "n": 96,
+  "start": 452.84,
+  "end": 454.64,
+  "image": "images/096_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270723.jpeg",
+  "held": false,
+  "w0": 1130,
+  "w1": 1132
+ },
+ {
+  "n": 97,
+  "start": 454.64,
+  "end": 456.54,
+  "image": "images/097_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270724.jpeg",
+  "held": false,
+  "w0": 1133,
+  "w1": 1135
+ },
+ {
+  "n": 98,
+  "start": 456.54,
+  "end": 458.36,
+  "image": "images/098_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270725.jpeg",
+  "held": false,
+  "w0": 1136,
+  "w1": 1138
+ },
+ {
+  "n": 99,
+  "start": 458.36,
+  "end": 460.44,
+  "image": "images/099_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270726.jpeg",
+  "held": false,
+  "w0": 1139,
+  "w1": 1142
+ },
+ {
+  "n": 100,
+  "start": 460.44,
+  "end": 464.64,
+  "image": "images/100_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270727.jpeg",
+  "held": false,
+  "w0": 1143,
+  "w1": 1154
+ },
+ {
+  "n": 101,
+  "start": 464.64,
+  "end": 471.92,
+  "image": "images/101_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270728.jpeg",
+  "held": false,
+  "w0": 1155,
+  "w1": 1172
+ },
+ {
+  "n": 102,
+  "start": 471.92,
+  "end": 476.22,
+  "image": "images/102_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270729.jpeg",
+  "held": false,
+  "w0": 1173,
+  "w1": 1181
+ },
+ {
+  "n": 103,
+  "start": 476.22,
+  "end": 480.32,
+  "image": "images/103_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270730.jpeg",
+  "held": false,
+  "w0": 1182,
+  "w1": 1193
+ },
+ {
+  "n": 104,
+  "start": 480.41,
+  "end": 483.2,
+  "image": "images/104_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270730.jpeg",
+  "held": false,
+  "w0": 1194,
+  "w1": 1197
+ },
+ {
+  "n": 105,
+  "start": 483.2,
+  "end": 485.64,
+  "image": "images/105_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270731.jpeg",
+  "held": false,
+  "w0": 1198,
+  "w1": 1200
+ },
+ {
+  "n": 106,
+  "start": 485.64,
+  "end": 487.84,
+  "image": "images/106_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270732.jpeg",
+  "held": false,
+  "w0": 1201,
+  "w1": 1203
+ },
+ {
+  "n": 107,
+  "start": 487.84,
+  "end": 490.64,
+  "image": "images/107_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270733.jpeg",
+  "held": false,
+  "w0": 1204,
+  "w1": 1210
+ },
+ {
+  "n": 108,
+  "start": 490.64,
+  "end": 493.32,
+  "image": "images/108_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270734.jpeg",
+  "held": false,
+  "w0": 1211,
+  "w1": 1212
+ },
+ {
+  "n": 109,
+  "start": 493.32,
+  "end": 500.72,
+  "image": "images/109_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270735.jpeg",
+  "held": false,
+  "w0": 1213,
+  "w1": 1232
+ },
+ {
+  "n": 110,
+  "start": 500.72,
+  "end": 503.94,
+  "image": "images/110_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270736.jpeg",
+  "held": false,
+  "w0": 1233,
+  "w1": 1238
+ },
+ {
+  "n": 111,
+  "start": 503.94,
+  "end": 508.8,
+  "image": "images/111_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270737.jpeg",
+  "held": false,
+  "w0": 1239,
+  "w1": 1256
+ },
+ {
+  "n": 112,
+  "start": 508.9,
+  "end": 514.96,
+  "image": "images/112_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270738.jpeg",
+  "held": false,
+  "w0": 1257,
+  "w1": 1270
+ },
+ {
+  "n": 113,
+  "start": 514.96,
+  "end": 517.44,
+  "image": "images/113_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270739.jpeg",
+  "held": false,
+  "w0": 1271,
+  "w1": 1276
+ },
+ {
+  "n": 114,
+  "start": 517.44,
+  "end": 520.08,
+  "image": "images/114_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270740.jpeg",
+  "held": false,
+  "w0": 1277,
+  "w1": 1283
+ },
+ {
+  "n": 115,
+  "start": 520.08,
+  "end": 525.58,
+  "image": "images/115_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270741.jpeg",
+  "held": false,
+  "w0": 1284,
+  "w1": 1295
+ },
+ {
+  "n": 116,
+  "start": 525.58,
+  "end": 529.2,
+  "image": "images/116_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270742.jpeg",
+  "held": false,
+  "w0": 1296,
+  "w1": 1304
+ },
+ {
+  "n": 117,
+  "start": 529.2,
+  "end": 531.88,
+  "image": "images/117_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270743.jpeg",
+  "held": false,
+  "w0": 1305,
+  "w1": 1311
+ },
+ {
+  "n": 118,
+  "start": 531.88,
+  "end": 538.16,
+  "image": "images/118_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270744.jpeg",
+  "held": false,
+  "w0": 1312,
+  "w1": 1333
+ },
+ {
+  "n": 119,
+  "start": 538.23,
+  "end": 540.76,
+  "image": "images/119_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270745.jpeg",
+  "held": false,
+  "w0": 1334,
+  "w1": 1340
+ },
+ {
+  "n": 120,
+  "start": 540.76,
+  "end": 543.6,
+  "image": "images/120_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270746.jpeg",
+  "held": false,
+  "w0": 1341,
+  "w1": 1345
+ },
+ {
+  "n": 121,
+  "start": 543.6,
+  "end": 546.48,
+  "image": "images/120_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270746.jpeg",
+  "held": true,
+  "w0": 1346,
+  "w1": 1356
+ },
+ {
+  "n": 122,
+  "start": 546.48,
+  "end": 549.96,
+  "image": "images/122_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270749.jpeg",
+  "held": false,
+  "w0": 1357,
+  "w1": 1363
+ },
+ {
+  "n": 123,
+  "start": 549.96,
+  "end": 552.96,
+  "image": "images/123_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270750.jpeg",
+  "held": false,
+  "w0": 1364,
+  "w1": 1366
+ },
+ {
+  "n": 124,
+  "start": 552.96,
+  "end": 555.08,
+  "image": "images/124_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270751.jpeg",
+  "held": false,
+  "w0": 1367,
+  "w1": 1370
+ },
+ {
+  "n": 125,
+  "start": 555.08,
+  "end": 556.08,
+  "image": "images/125_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270752.jpeg",
+  "held": false,
+  "w0": 1371,
+  "w1": 1373
+ },
+ {
+  "n": 126,
+  "start": 556.08,
+  "end": 560.56,
+  "image": "images/126_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270753.jpeg",
+  "held": false,
+  "w0": 1374,
+  "w1": 1382
+ },
+ {
+  "n": 127,
+  "start": 560.56,
+  "end": 564.48,
+  "image": "images/127_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270754.jpeg",
+  "held": false,
+  "w0": 1383,
+  "w1": 1390
+ },
+ {
+  "n": 128,
+  "start": 564.48,
+  "end": 567.08,
+  "image": "images/128_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270755.jpeg",
+  "held": false,
+  "w0": 1391,
+  "w1": 1396
+ },
+ {
+  "n": 129,
+  "start": 567.13,
+  "end": 568.08,
+  "image": "images/129_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270756.jpeg",
+  "held": false,
+  "w0": 1397,
+  "w1": 1399
+ },
+ {
+  "n": 130,
+  "start": 568.08,
+  "end": 570.32,
+  "image": "images/130_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270757.jpeg",
+  "held": false,
+  "w0": 1400,
+  "w1": 1400
+ },
+ {
+  "n": 131,
+  "start": 570.32,
+  "end": 572.4,
+  "image": "images/131_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270758.jpeg",
+  "held": false,
+  "w0": 1401,
+  "w1": 1406
+ },
+ {
+  "n": 132,
+  "start": 572.4,
+  "end": 575.64,
+  "image": "images/132_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270759.jpeg",
+  "held": false,
+  "w0": 1407,
+  "w1": 1411
+ },
+ {
+  "n": 133,
+  "start": 575.64,
+  "end": 578.0,
+  "image": "images/133_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270759.jpeg",
+  "held": false,
+  "w0": 1412,
+  "w1": 1421
+ },
+ {
+  "n": 134,
+  "start": 578.0,
+  "end": 581.92,
+  "image": "images/134_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270800.jpeg",
+  "held": false,
+  "w0": 1422,
+  "w1": 1430
+ },
+ {
+  "n": 135,
+  "start": 581.92,
+  "end": 584.2,
+  "image": "images/135_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270801.jpeg",
+  "held": false,
+  "w0": 1431,
+  "w1": 1433
+ },
+ {
+  "n": 136,
+  "start": 584.2,
+  "end": 587.32,
+  "image": "images/136_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270802.jpeg",
+  "held": false,
+  "w0": 1434,
+  "w1": 1440
+ },
+ {
+  "n": 137,
+  "start": 587.32,
+  "end": 591.32,
+  "image": "images/137_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270803.jpeg",
+  "held": false,
+  "w0": 1441,
+  "w1": 1452
+ },
+ {
+  "n": 138,
+  "start": 591.32,
+  "end": 601.16,
+  "image": "images/138_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270804.jpeg",
+  "held": false,
+  "w0": 1453,
+  "w1": 1473
+ },
+ {
+  "n": 139,
+  "start": 601.16,
+  "end": 604.72,
+  "image": "images/139_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270805.jpeg",
+  "held": false,
+  "w0": 1474,
+  "w1": 1482
+ },
+ {
+  "n": 140,
+  "start": 604.72,
+  "end": 613.04,
+  "image": "images/140_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270806.jpeg",
+  "held": false,
+  "w0": 1483,
+  "w1": 1507
+ },
+ {
+  "n": 141,
+  "start": 613.64,
+  "end": 620.28,
+  "image": "images/141_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270807.jpeg",
+  "held": false,
+  "w0": 1510,
+  "w1": 1527
+ },
+ {
+  "n": 142,
+  "start": 620.28,
+  "end": 624.92,
+  "image": "images/142_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270807.jpeg",
+  "held": false,
+  "w0": 1528,
+  "w1": 1539
+ },
+ {
+  "n": 143,
+  "start": 624.97,
+  "end": 631.16,
+  "image": "images/143_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270809.jpeg",
+  "held": false,
+  "w0": 1540,
+  "w1": 1557
+ },
+ {
+  "n": 144,
+  "start": 631.16,
+  "end": 636.92,
+  "image": "images/144_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270809.jpeg",
+  "held": false,
+  "w0": 1558,
+  "w1": 1571
+ },
+ {
+  "n": 145,
+  "start": 637.66,
+  "end": 646.4,
+  "image": "images/145_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270811.jpeg",
+  "held": false,
+  "w0": 1574,
+  "w1": 1594
+ },
+ {
+  "n": 146,
+  "start": 646.4,
+  "end": 648.96,
+  "image": "images/146_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270812.jpeg",
+  "held": false,
+  "w0": 1595,
+  "w1": 1600
+ },
+ {
+  "n": 147,
+  "start": 648.96,
+  "end": 655.08,
+  "image": "images/147_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270813.jpeg",
+  "held": false,
+  "w0": 1601,
+  "w1": 1615
+ },
+ {
+  "n": 148,
+  "start": 655.99,
+  "end": 658.24,
+  "image": "images/148_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270814.jpeg",
+  "held": false,
+  "w0": 1618,
+  "w1": 1622
+ },
+ {
+  "n": 149,
+  "start": 658.24,
+  "end": 667.04,
+  "image": "images/149_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270815.jpeg",
+  "held": false,
+  "w0": 1623,
+  "w1": 1643
+ },
+ {
+  "n": 150,
+  "start": 667.04,
+  "end": 670.2,
+  "image": "images/150_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270816.jpeg",
+  "held": false,
+  "w0": 1644,
+  "w1": 1650
+ },
+ {
+  "n": 151,
+  "start": 670.2,
+  "end": 679.48,
+  "image": "images/151_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270817.jpeg",
+  "held": false,
+  "w0": 1651,
+  "w1": 1676
+ },
+ {
+  "n": 152,
+  "start": 679.85,
+  "end": 681.36,
+  "image": "images/152_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270818.jpeg",
+  "held": false,
+  "w0": 1678,
+  "w1": 1679
+ },
+ {
+  "n": 153,
+  "start": 682.22,
+  "end": 685.12,
+  "image": "images/153_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270819.jpeg",
+  "held": false,
+  "w0": 1682,
+  "w1": 1687
+ },
+ {
+  "n": 154,
+  "start": 685.12,
+  "end": 687.56,
+  "image": "images/154_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270820.jpeg",
+  "held": false,
+  "w0": 1688,
+  "w1": 1693
+ },
+ {
+  "n": 155,
+  "start": 687.56,
+  "end": 691.8,
+  "image": "images/155_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270821.jpeg",
+  "held": false,
+  "w0": 1694,
+  "w1": 1701
+ },
+ {
+  "n": 156,
+  "start": 691.8,
+  "end": 693.76,
+  "image": "images/156_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270822.jpeg",
+  "held": false,
+  "w0": 1702,
+  "w1": 1704
+ },
+ {
+  "n": 157,
+  "start": 693.76,
+  "end": 696.48,
+  "image": "images/157_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270823.jpeg",
+  "held": false,
+  "w0": 1705,
+  "w1": 1709
+ },
+ {
+  "n": 158,
+  "start": 696.48,
+  "end": 701.24,
+  "image": "images/158_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270824.jpeg",
+  "held": false,
+  "w0": 1710,
+  "w1": 1718
+ },
+ {
+  "n": 159,
+  "start": 701.24,
+  "end": 708.24,
+  "image": "images/159_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270825.jpeg",
+  "held": false,
+  "w0": 1719,
+  "w1": 1738
+ },
+ {
+  "n": 160,
+  "start": 708.27,
+  "end": 713.58,
+  "image": "images/160_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270826.jpeg",
+  "held": false,
+  "w0": 1739,
+  "w1": 1756
+ },
+ {
+  "n": 161,
+  "start": 713.58,
+  "end": 717.64,
+  "image": "images/161_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270827.jpeg",
+  "held": false,
+  "w0": 1757,
+  "w1": 1769
+ },
+ {
+  "n": 162,
+  "start": 717.64,
+  "end": 722.08,
+  "image": "images/162_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270828.jpeg",
+  "held": false,
+  "w0": 1770,
+  "w1": 1785
+ },
+ {
+  "n": 163,
+  "start": 722.08,
+  "end": 723.64,
+  "image": "images/163_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270829.jpeg",
+  "held": false,
+  "w0": 1786,
+  "w1": 1788
+ },
+ {
+  "n": 164,
+  "start": 723.64,
+  "end": 726.06,
+  "image": "images/164_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270830.jpeg",
+  "held": false,
+  "w0": 1789,
+  "w1": 1795
+ },
+ {
+  "n": 165,
+  "start": 726.06,
+  "end": 731.56,
+  "image": "images/165_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270831.jpeg",
+  "held": false,
+  "w0": 1796,
+  "w1": 1808
+ },
+ {
+  "n": 166,
+  "start": 731.56,
+  "end": 737.08,
+  "image": "images/166_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270832.jpeg",
+  "held": false,
+  "w0": 1809,
+  "w1": 1827
+ },
+ {
+  "n": 167,
+  "start": 737.11,
+  "end": 741.96,
+  "image": "images/167_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270833.jpeg",
+  "held": false,
+  "w0": 1828,
+  "w1": 1841
+ },
+ {
+  "n": 168,
+  "start": 741.96,
+  "end": 745.28,
+  "image": "images/168_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270833.jpeg",
+  "held": false,
+  "w0": 1842,
+  "w1": 1850
+ },
+ {
+  "n": 169,
+  "start": 745.49,
+  "end": 748.92,
+  "image": "images/169_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270834.jpeg",
+  "held": false,
+  "w0": 1852,
+  "w1": 1859
+ },
+ {
+  "n": 170,
+  "start": 748.92,
+  "end": 756.2,
+  "image": "images/170_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270835.jpeg",
+  "held": false,
+  "w0": 1860,
+  "w1": 1879
+ },
+ {
+  "n": 171,
+  "start": 756.2,
+  "end": 766.2,
+  "image": "images/171_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270836.jpeg",
+  "held": false,
+  "w0": 1880,
+  "w1": 1912
+ },
+ {
+  "n": 172,
+  "start": 766.26,
+  "end": 771.24,
+  "image": "images/172_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270837.jpeg",
+  "held": false,
+  "w0": 1913,
+  "w1": 1928
+ },
+ {
+  "n": 173,
+  "start": 771.24,
+  "end": 792.96,
+  "image": "images/173_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270839.jpeg",
+  "held": false,
+  "w0": 1929,
+  "w1": 1992
+ },
+ {
+  "n": 174,
+  "start": 793.54,
+  "end": 797.16,
+  "image": "images/174_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270840.jpeg",
+  "held": false,
+  "w0": 1995,
+  "w1": 2003
+ },
+ {
+  "n": 175,
+  "start": 797.16,
+  "end": 808.6,
+  "image": "images/175_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270841.jpeg",
+  "held": false,
+  "w0": 2004,
+  "w1": 2034
+ },
+ {
+  "n": 176,
+  "start": 808.6,
+  "end": 810.88,
+  "image": "images/176_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270842.jpeg",
+  "held": false,
+  "w0": 2035,
+  "w1": 2038
+ },
+ {
+  "n": 177,
+  "start": 810.88,
+  "end": 815.56,
+  "image": "images/177_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270843.jpeg",
+  "held": false,
+  "w0": 2039,
+  "w1": 2052
+ },
+ {
+  "n": 178,
+  "start": 816.23,
+  "end": 822.48,
+  "image": "images/178_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270844.jpeg",
+  "held": false,
+  "w0": 2055,
+  "w1": 2071
+ },
+ {
+  "n": 179,
+  "start": 822.56,
+  "end": 825.28,
+  "image": "images/179_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270845.jpeg",
+  "held": false,
+  "w0": 2072,
+  "w1": 2076
+ },
+ {
+  "n": 180,
+  "start": 825.28,
+  "end": 827.92,
+  "image": "images/180_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270845.jpeg",
+  "held": false,
+  "w0": 2077,
+  "w1": 2081
+ },
+ {
+  "n": 181,
+  "start": 827.92,
+  "end": 833.44,
+  "image": "images/181_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270846.jpeg",
+  "held": false,
+  "w0": 2082,
+  "w1": 2098
+ },
+ {
+  "n": 182,
+  "start": 833.44,
+  "end": 837.36,
+  "image": "images/182_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270847.jpeg",
+  "held": false,
+  "w0": 2099,
+  "w1": 2110
+ },
+ {
+  "n": 183,
+  "start": 837.94,
+  "end": 841.08,
+  "image": "images/183_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270848.jpeg",
+  "held": false,
+  "w0": 2112,
+  "w1": 2119
+ },
+ {
+  "n": 184,
+  "start": 841.08,
+  "end": 842.92,
+  "image": "images/184_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270850.jpeg",
+  "held": false,
+  "w0": 2120,
+  "w1": 2123
+ },
+ {
+  "n": 185,
+  "start": 842.92,
+  "end": 844.32,
+  "image": "images/185_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270851.jpeg",
+  "held": false,
+  "w0": 2124,
+  "w1": 2124
+ },
+ {
+  "n": 186,
+  "start": 845.31,
+  "end": 847.52,
+  "image": "images/186_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270852.jpeg",
+  "held": false,
+  "w0": 2128,
+  "w1": 2132
+ },
+ {
+  "n": 187,
+  "start": 847.59,
+  "end": 856.52,
+  "image": "images/187_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270853.jpeg",
+  "held": false,
+  "w0": 2133,
+  "w1": 2157
+ },
+ {
+  "n": 188,
+  "start": 856.52,
+  "end": 861.52,
+  "image": "images/188_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270854.jpeg",
+  "held": false,
+  "w0": 2158,
+  "w1": 2167
+ },
+ {
+  "n": 189,
+  "start": 861.52,
+  "end": 866.8,
+  "image": "images/189_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605270855.jpeg",
+  "held": false,
+  "w0": 2168,
+  "w1": 2183
+ },
+ {
+  "n": 190,
+  "start": 866.8,
+  "end": 869.6,
+  "image": "images2/001_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292335.jpeg",
+  "held": false,
+  "w0": 2184,
+  "w1": 2188
+ },
+ {
+  "n": 191,
+  "start": 869.6,
+  "end": 873.6,
+  "image": "images2/002_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292336.jpeg",
+  "held": false,
+  "w0": 2189,
+  "w1": 2196
+ },
+ {
+  "n": 192,
+  "start": 873.6,
+  "end": 876.16,
+  "image": "images2/003_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292339.jpeg",
+  "held": false,
+  "w0": 2197,
+  "w1": 2202
+ },
+ {
+  "n": 193,
+  "start": 876.28,
+  "end": 878.24,
+  "image": "images2/004_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292339.jpeg",
+  "held": false,
+  "w0": 2203,
+  "w1": 2205
+ },
+ {
+  "n": 194,
+  "start": 878.24,
+  "end": 885.28,
+  "image": "images2/005_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292340.jpeg",
+  "held": false,
+  "w0": 2206,
+  "w1": 2223
+ },
+ {
+  "n": 195,
+  "start": 885.28,
+  "end": 896.08,
+  "image": "images2/006_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292341.jpeg",
+  "held": false,
+  "w0": 2224,
+  "w1": 2251
+ },
+ {
+  "n": 196,
+  "start": 896.08,
+  "end": 898.76,
+  "image": "images2/007_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292342.jpeg",
+  "held": false,
+  "w0": 2252,
+  "w1": 2255
+ },
+ {
+  "n": 197,
+  "start": 898.76,
+  "end": 900.08,
+  "image": "images2/008_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292343.jpeg",
+  "held": false,
+  "w0": 2256,
+  "w1": 2258
+ },
+ {
+  "n": 198,
+  "start": 900.08,
+  "end": 902.92,
+  "image": "images2/009_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292344.jpeg",
+  "held": false,
+  "w0": 2259,
+  "w1": 2262
+ },
+ {
+  "n": 199,
+  "start": 902.92,
+  "end": 905.56,
+  "image": "images2/010_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292345.jpeg",
+  "held": false,
+  "w0": 2263,
+  "w1": 2268
+ },
+ {
+  "n": 200,
+  "start": 905.65,
+  "end": 907.64,
+  "image": "images2/011_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292350.jpeg",
+  "held": false,
+  "w0": 2269,
+  "w1": 2271
+ },
+ {
+  "n": 201,
+  "start": 907.64,
+  "end": 909.52,
+  "image": "images2/012_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292351.jpeg",
+  "held": false,
+  "w0": 2272,
+  "w1": 2274
+ },
+ {
+  "n": 202,
+  "start": 909.52,
+  "end": 911.68,
+  "image": "images2/013_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292353.jpeg",
+  "held": false,
+  "w0": 2275,
+  "w1": 2277
+ },
+ {
+  "n": 203,
+  "start": 911.68,
+  "end": 913.56,
+  "image": "images2/014_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292354.jpeg",
+  "held": false,
+  "w0": 2278,
+  "w1": 2282
+ },
+ {
+  "n": 204,
+  "start": 913.56,
+  "end": 917.2,
+  "image": "images2/015_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292354.jpeg",
+  "held": false,
+  "w0": 2283,
+  "w1": 2287
+ },
+ {
+  "n": 205,
+  "start": 917.2,
+  "end": 919.0,
+  "image": "images2/016_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292356.jpeg",
+  "held": false,
+  "w0": 2288,
+  "w1": 2289
+ },
+ {
+  "n": 206,
+  "start": 919.0,
+  "end": 922.52,
+  "image": "images2/017_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292357.jpeg",
+  "held": false,
+  "w0": 2290,
+  "w1": 2298
+ },
+ {
+  "n": 207,
+  "start": 922.52,
+  "end": 923.52,
+  "image": "images2/018_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292358.jpeg",
+  "held": false,
+  "w0": 2299,
+  "w1": 2301
+ },
+ {
+  "n": 208,
+  "start": 923.52,
+  "end": 925.52,
+  "image": "images2/019_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292358.jpeg",
+  "held": false,
+  "w0": 2302,
+  "w1": 2303
+ },
+ {
+  "n": 209,
+  "start": 925.52,
+  "end": 928.44,
+  "image": "images2/020_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605292359.jpeg",
+  "held": false,
+  "w0": 2304,
+  "w1": 2307
+ },
+ {
+  "n": 210,
+  "start": 928.44,
+  "end": 929.88,
+  "image": "images2/021_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300000.jpeg",
+  "held": false,
+  "w0": 2308,
+  "w1": 2311
+ },
+ {
+  "n": 211,
+  "start": 929.88,
+  "end": 932.68,
+  "image": "images2/022_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300001.jpeg",
+  "held": false,
+  "w0": 2312,
+  "w1": 2315
+ },
+ {
+  "n": 212,
+  "start": 932.68,
+  "end": 934.92,
+  "image": "images2/023_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300002.jpeg",
+  "held": false,
+  "w0": 2316,
+  "w1": 2321
+ },
+ {
+  "n": 213,
+  "start": 934.99,
+  "end": 937.96,
+  "image": "images2/024_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300003.jpeg",
+  "held": false,
+  "w0": 2322,
+  "w1": 2328
+ },
+ {
+  "n": 214,
+  "start": 938.92,
+  "end": 940.88,
+  "image": "images2/025_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300004.jpeg",
+  "held": false,
+  "w0": 2332,
+  "w1": 2336
+ },
+ {
+  "n": 215,
+  "start": 940.88,
+  "end": 942.36,
+  "image": "images2/026_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300005.jpeg",
+  "held": false,
+  "w0": 2337,
+  "w1": 2338
+ },
+ {
+  "n": 216,
+  "start": 942.36,
+  "end": 946.12,
+  "image": "images2/027_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300006.jpeg",
+  "held": false,
+  "w0": 2339,
+  "w1": 2345
+ },
+ {
+  "n": 217,
+  "start": 946.12,
+  "end": 950.52,
+  "image": "images2/028_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300007.jpeg",
+  "held": false,
+  "w0": 2346,
+  "w1": 2355
+ },
+ {
+  "n": 218,
+  "start": 950.52,
+  "end": 953.68,
+  "image": "images2/029_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300008.jpeg",
+  "held": false,
+  "w0": 2356,
+  "w1": 2363
+ },
+ {
+  "n": 219,
+  "start": 953.68,
+  "end": 957.16,
+  "image": "images2/030_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300009.jpeg",
+  "held": false,
+  "w0": 2364,
+  "w1": 2373
+ },
+ {
+  "n": 220,
+  "start": 957.16,
+  "end": 959.8,
+  "image": "images2/031_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300010.jpeg",
+  "held": false,
+  "w0": 2374,
+  "w1": 2381
+ },
+ {
+  "n": 221,
+  "start": 959.8,
+  "end": 968.4,
+  "image": "images2/032_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300011.jpeg",
+  "held": false,
+  "w0": 2382,
+  "w1": 2406
+ },
+ {
+  "n": 222,
+  "start": 968.4,
+  "end": 973.48,
+  "image": "images2/033_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300012.jpeg",
+  "held": false,
+  "w0": 2407,
+  "w1": 2418
+ },
+ {
+  "n": 223,
+  "start": 974.53,
+  "end": 977.6,
+  "image": "images2/034_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300013.jpeg",
+  "held": false,
+  "w0": 2422,
+  "w1": 2430
+ },
+ {
+  "n": 224,
+  "start": 977.6,
+  "end": 980.68,
+  "image": "images2/035_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300013.jpeg",
+  "held": false,
+  "w0": 2431,
+  "w1": 2436
+ },
+ {
+  "n": 225,
+  "start": 980.68,
+  "end": 987.64,
+  "image": "images2/036_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300014.jpeg",
+  "held": false,
+  "w0": 2437,
+  "w1": 2458
+ },
+ {
+  "n": 226,
+  "start": 987.64,
+  "end": 989.78,
+  "image": "images2/037_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300015.jpeg",
+  "held": false,
+  "w0": 2459,
+  "w1": 2463
+ },
+ {
+  "n": 227,
+  "start": 990.61,
+  "end": 993.75,
+  "image": "images2/038_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300017.jpeg",
+  "held": false,
+  "w0": 2467,
+  "w1": 2472
+ },
+ {
+  "n": 228,
+  "start": 993.75,
+  "end": 996.96,
+  "image": "images2/039_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300018.jpeg",
+  "held": false,
+  "w0": 2473,
+  "w1": 2479
+ },
+ {
+  "n": 229,
+  "start": 996.96,
+  "end": 1000.8,
+  "image": "images2/040_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300019.jpeg",
+  "held": false,
+  "w0": 2480,
+  "w1": 2486
+ },
+ {
+  "n": 230,
+  "start": 1000.8,
+  "end": 1009.22,
+  "image": "images2/041_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300020.jpeg",
+  "held": false,
+  "w0": 2487,
+  "w1": 2502
+ },
+ {
+  "n": 231,
+  "start": 1009.22,
+  "end": 1012.8,
+  "image": "images2/042_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300021.jpeg",
+  "held": false,
+  "w0": 2503,
+  "w1": 2510
+ },
+ {
+  "n": 232,
+  "start": 1013.73,
+  "end": 1015.56,
+  "image": "images2/043_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300022.jpeg",
+  "held": false,
+  "w0": 2514,
+  "w1": 2516
+ },
+ {
+  "n": 233,
+  "start": 1015.63,
+  "end": 1028.24,
+  "image": "images2/044_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300023.jpeg",
+  "held": false,
+  "w0": 2517,
+  "w1": 2558
+ },
+ {
+  "n": 234,
+  "start": 1028.24,
+  "end": 1030.36,
+  "image": "images2/045_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300024.jpeg",
+  "held": false,
+  "w0": 2559,
+  "w1": 2560
+ },
+ {
+  "n": 235,
+  "start": 1030.36,
+  "end": 1034.04,
+  "image": "images2/046_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300024.jpeg",
+  "held": false,
+  "w0": 2561,
+  "w1": 2563
+ },
+ {
+  "n": 236,
+  "start": 1034.04,
+  "end": 1035.64,
+  "image": "images2/047_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300025.jpeg",
+  "held": false,
+  "w0": 2564,
+  "w1": 2566
+ },
+ {
+  "n": 237,
+  "start": 1035.64,
+  "end": 1039.62,
+  "image": "images2/048_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300026.jpeg",
+  "held": false,
+  "w0": 2567,
+  "w1": 2576
+ },
+ {
+  "n": 238,
+  "start": 1039.62,
+  "end": 1042.0,
+  "image": "images2/049_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300028.jpeg",
+  "held": false,
+  "w0": 2577,
+  "w1": 2580
+ },
+ {
+  "n": 239,
+  "start": 1042.0,
+  "end": 1044.86,
+  "image": "images2/050_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300029.jpeg",
+  "held": false,
+  "w0": 2581,
+  "w1": 2584
+ },
+ {
+  "n": 240,
+  "start": 1044.9,
+  "end": 1048.34,
+  "image": "images2/051_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300030.jpeg",
+  "held": false,
+  "w0": 2585,
+  "w1": 2591
+ },
+ {
+  "n": 241,
+  "start": 1048.34,
+  "end": 1050.92,
+  "image": "images2/052_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300030.jpeg",
+  "held": false,
+  "w0": 2592,
+  "w1": 2595
+ },
+ {
+  "n": 242,
+  "start": 1050.92,
+  "end": 1054.3,
+  "image": "images2/053_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300031.jpeg",
+  "held": false,
+  "w0": 2596,
+  "w1": 2603
+ },
+ {
+  "n": 243,
+  "start": 1054.3,
+  "end": 1067.32,
+  "image": "images2/054_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300032.jpeg",
+  "held": false,
+  "w0": 2604,
+  "w1": 2636
+ },
+ {
+  "n": 244,
+  "start": 1067.32,
+  "end": 1077.28,
+  "image": "images2/055_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300033.jpeg",
+  "held": false,
+  "w0": 2637,
+  "w1": 2665
+ },
+ {
+  "n": 245,
+  "start": 1077.28,
+  "end": 1084.84,
+  "image": "images2/056_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300034.jpeg",
+  "held": false,
+  "w0": 2666,
+  "w1": 2681
+ },
+ {
+  "n": 246,
+  "start": 1084.84,
+  "end": 1088.52,
+  "image": "images2/057_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300035.jpeg",
+  "held": false,
+  "w0": 2682,
+  "w1": 2691
+ },
+ {
+  "n": 247,
+  "start": 1088.52,
+  "end": 1093.04,
+  "image": "images2/058_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300036.jpeg",
+  "held": false,
+  "w0": 2692,
+  "w1": 2700
+ },
+ {
+  "n": 248,
+  "start": 1093.04,
+  "end": 1102.0,
+  "image": "images2/059_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300037.jpeg",
+  "held": false,
+  "w0": 2701,
+  "w1": 2723
+ },
+ {
+  "n": 249,
+  "start": 1102.04,
+  "end": 1104.72,
+  "image": "images2/060_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300038.jpeg",
+  "held": false,
+  "w0": 2724,
+  "w1": 2729
+ },
+ {
+  "n": 250,
+  "start": 1104.72,
+  "end": 1107.72,
+  "image": "images2/061_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300039.jpeg",
+  "held": false,
+  "w0": 2730,
+  "w1": 2735
+ },
+ {
+  "n": 251,
+  "start": 1108.74,
+  "end": 1113.36,
+  "image": "images2/062_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300040.jpeg",
+  "held": false,
+  "w0": 2739,
+  "w1": 2752
+ },
+ {
+  "n": 252,
+  "start": 1113.36,
+  "end": 1115.28,
+  "image": "images2/063_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300041.jpeg",
+  "held": false,
+  "w0": 2753,
+  "w1": 2756
+ },
+ {
+  "n": 253,
+  "start": 1115.28,
+  "end": 1118.44,
+  "image": "images2/064_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300042.jpeg",
+  "held": false,
+  "w0": 2757,
+  "w1": 2762
+ },
+ {
+  "n": 254,
+  "start": 1119.11,
+  "end": 1125.88,
+  "image": "images2/065_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300043.jpeg",
+  "held": false,
+  "w0": 2766,
+  "w1": 2788
+ },
+ {
+  "n": 255,
+  "start": 1125.88,
+  "end": 1129.12,
+  "image": "images2/066_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300044.jpeg",
+  "held": false,
+  "w0": 2789,
+  "w1": 2792
+ },
+ {
+  "n": 256,
+  "start": 1129.12,
+  "end": 1131.12,
+  "image": "images2/067_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300045.jpeg",
+  "held": false,
+  "w0": 2793,
+  "w1": 2795
+ },
+ {
+  "n": 257,
+  "start": 1131.22,
+  "end": 1133.96,
+  "image": "images2/068_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300046.jpeg",
+  "held": false,
+  "w0": 2796,
+  "w1": 2799
+ },
+ {
+  "n": 258,
+  "start": 1133.96,
+  "end": 1139.44,
+  "image": "images2/069_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300048.jpeg",
+  "held": false,
+  "w0": 2800,
+  "w1": 2816
+ },
+ {
+  "n": 259,
+  "start": 1139.44,
+  "end": 1143.32,
+  "image": "images2/070_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300048.jpeg",
+  "held": false,
+  "w0": 2817,
+  "w1": 2823
+ },
+ {
+  "n": 260,
+  "start": 1145.44,
+  "end": 1147.36,
+  "image": "images2/071_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300049.jpeg",
+  "held": false,
+  "w0": 2829,
+  "w1": 2831
+ },
+ {
+  "n": 261,
+  "start": 1147.36,
+  "end": 1149.16,
+  "image": "images2/072_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300050.jpeg",
+  "held": false,
+  "w0": 2832,
+  "w1": 2834
+ },
+ {
+  "n": 262,
+  "start": 1149.16,
+  "end": 1152.44,
+  "image": "images2/073_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300051.jpeg",
+  "held": false,
+  "w0": 2835,
+  "w1": 2843
+ },
+ {
+  "n": 263,
+  "start": 1152.44,
+  "end": 1155.6,
+  "image": "images2/074_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300052.jpeg",
+  "held": false,
+  "w0": 2844,
+  "w1": 2850
+ },
+ {
+  "n": 264,
+  "start": 1155.6,
+  "end": 1160.52,
+  "image": "images2/075_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300053.jpeg",
+  "held": false,
+  "w0": 2851,
+  "w1": 2865
+ },
+ {
+  "n": 265,
+  "start": 1160.54,
+  "end": 1163.0,
+  "image": "images2/076_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300054.jpeg",
+  "held": false,
+  "w0": 2866,
+  "w1": 2869
+ },
+ {
+  "n": 266,
+  "start": 1163.0,
+  "end": 1165.36,
+  "image": "images2/077_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300055.jpeg",
+  "held": false,
+  "w0": 2870,
+  "w1": 2873
+ },
+ {
+  "n": 267,
+  "start": 1165.36,
+  "end": 1169.56,
+  "image": "images2/078_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300056.jpeg",
+  "held": false,
+  "w0": 2874,
+  "w1": 2886
+ },
+ {
+  "n": 268,
+  "start": 1169.56,
+  "end": 1171.52,
+  "image": "images2/079_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300057.jpeg",
+  "held": false,
+  "w0": 2887,
+  "w1": 2891
+ },
+ {
+  "n": 269,
+  "start": 1171.52,
+  "end": 1173.04,
+  "image": "images2/080_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300058.jpeg",
+  "held": false,
+  "w0": 2892,
+  "w1": 2892
+ },
+ {
+  "n": 270,
+  "start": 1173.04,
+  "end": 1175.36,
+  "image": "images2/081_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300058.jpeg",
+  "held": false,
+  "w0": 2893,
+  "w1": 2898
+ },
+ {
+  "n": 271,
+  "start": 1175.36,
+  "end": 1178.04,
+  "image": "images2/082_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300059.jpeg",
+  "held": false,
+  "w0": 2899,
+  "w1": 2903
+ },
+ {
+  "n": 272,
+  "start": 1178.04,
+  "end": 1189.32,
+  "image": "images2/083_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300100.jpeg",
+  "held": false,
+  "w0": 2904,
+  "w1": 2934
+ },
+ {
+  "n": 273,
+  "start": 1189.36,
+  "end": 1191.8,
+  "image": "images2/084_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300101.jpeg",
+  "held": false,
+  "w0": 2935,
+  "w1": 2937
+ },
+ {
+  "n": 274,
+  "start": 1191.8,
+  "end": 1192.8,
+  "image": "images2/085_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300102.jpeg",
+  "held": false,
+  "w0": 2938,
+  "w1": 2940
+ },
+ {
+  "n": 275,
+  "start": 1192.8,
+  "end": 1196.4,
+  "image": "images2/086_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300103.jpeg",
+  "held": false,
+  "w0": 2941,
+  "w1": 2946
+ },
+ {
+  "n": 276,
+  "start": 1196.4,
+  "end": 1197.8,
+  "image": "images2/087_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300104.jpeg",
+  "held": false,
+  "w0": 2947,
+  "w1": 2947
+ },
+ {
+  "n": 277,
+  "start": 1197.8,
+  "end": 1199.92,
+  "image": "images2/088_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300105.jpeg",
+  "held": false,
+  "w0": 2948,
+  "w1": 2950
+ },
+ {
+  "n": 278,
+  "start": 1199.92,
+  "end": 1203.08,
+  "image": "images2/089_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300106.jpeg",
+  "held": false,
+  "w0": 2951,
+  "w1": 2958
+ },
+ {
+  "n": 279,
+  "start": 1203.08,
+  "end": 1205.12,
+  "image": "images2/090_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300107.jpeg",
+  "held": false,
+  "w0": 2959,
+  "w1": 2961
+ },
+ {
+  "n": 280,
+  "start": 1205.12,
+  "end": 1206.88,
+  "image": "images2/091_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300108.jpeg",
+  "held": false,
+  "w0": 2962,
+  "w1": 2964
+ },
+ {
+  "n": 281,
+  "start": 1206.88,
+  "end": 1211.92,
+  "image": "images2/092_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300109.jpeg",
+  "held": false,
+  "w0": 2965,
+  "w1": 2976
+ },
+ {
+  "n": 282,
+  "start": 1211.92,
+  "end": 1213.72,
+  "image": "images2/093_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300110.jpeg",
+  "held": false,
+  "w0": 2977,
+  "w1": 2979
+ },
+ {
+  "n": 283,
+  "start": 1213.72,
+  "end": 1215.58,
+  "image": "images2/094_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300111.jpeg",
+  "held": false,
+  "w0": 2980,
+  "w1": 2982
+ },
+ {
+  "n": 284,
+  "start": 1215.62,
+  "end": 1221.84,
+  "image": "images2/095_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300112.jpeg",
+  "held": false,
+  "w0": 2983,
+  "w1": 2999
+ },
+ {
+  "n": 285,
+  "start": 1221.84,
+  "end": 1229.0,
+  "image": "images2/096_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300113.jpeg",
+  "held": false,
+  "w0": 3000,
+  "w1": 3022
+ },
+ {
+  "n": 286,
+  "start": 1229.0,
+  "end": 1232.16,
+  "image": "images2/097_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300114.jpeg",
+  "held": false,
+  "w0": 3023,
+  "w1": 3028
+ },
+ {
+  "n": 287,
+  "start": 1232.16,
+  "end": 1240.24,
+  "image": "images2/098_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300115.jpeg",
+  "held": false,
+  "w0": 3029,
+  "w1": 3051
+ },
+ {
+  "n": 288,
+  "start": 1240.24,
+  "end": 1243.12,
+  "image": "images2/099_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300116.jpeg",
+  "held": false,
+  "w0": 3052,
+  "w1": 3058
+ },
+ {
+  "n": 289,
+  "start": 1243.15,
+  "end": 1251.76,
+  "image": "images2/100_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300117.jpeg",
+  "held": false,
+  "w0": 3059,
+  "w1": 3083
+ },
+ {
+  "n": 290,
+  "start": 1251.76,
+  "end": 1253.24,
+  "image": "images2/101_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300118.jpeg",
+  "held": false,
+  "w0": 3084,
+  "w1": 3084
+ },
+ {
+  "n": 291,
+  "start": 1253.24,
+  "end": 1256.84,
+  "image": "images2/102_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300119.jpeg",
+  "held": false,
+  "w0": 3085,
+  "w1": 3092
+ },
+ {
+  "n": 292,
+  "start": 1256.84,
+  "end": 1262.56,
+  "image": "images2/103_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300120.jpeg",
+  "held": false,
+  "w0": 3093,
+  "w1": 3107
+ },
+ {
+  "n": 293,
+  "start": 1262.56,
+  "end": 1277.64,
+  "image": "images2/104_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300121.jpeg",
+  "held": false,
+  "w0": 3108,
+  "w1": 3154
+ },
+ {
+  "n": 294,
+  "start": 1277.64,
+  "end": 1279.24,
+  "image": "images2/105_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300122.jpeg",
+  "held": false,
+  "w0": 3155,
+  "w1": 3157
+ },
+ {
+  "n": 295,
+  "start": 1279.24,
+  "end": 1280.24,
+  "image": "images2/106_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300123.jpeg",
+  "held": false,
+  "w0": 3158,
+  "w1": 3159
+ },
+ {
+  "n": 296,
+  "start": 1280.24,
+  "end": 1284.8,
+  "image": "images2/107_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300124.jpeg",
+  "held": false,
+  "w0": 3160,
+  "w1": 3169
+ },
+ {
+  "n": 297,
+  "start": 1284.8,
+  "end": 1287.44,
+  "image": "images2/108_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300125.jpeg",
+  "held": false,
+  "w0": 3170,
+  "w1": 3175
+ },
+ {
+  "n": 298,
+  "start": 1287.44,
+  "end": 1290.08,
+  "image": "images2/109_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300126.jpeg",
+  "held": false,
+  "w0": 3176,
+  "w1": 3181
+ },
+ {
+  "n": 299,
+  "start": 1290.34,
+  "end": 1298.12,
+  "image": "images2/110_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300127.jpeg",
+  "held": false,
+  "w0": 3183,
+  "w1": 3207
+ },
+ {
+  "n": 300,
+  "start": 1298.12,
+  "end": 1300.24,
+  "image": "images2/111_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300128.jpeg",
+  "held": false,
+  "w0": 3208,
+  "w1": 3210
+ },
+ {
+  "n": 301,
+  "start": 1300.29,
+  "end": 1306.72,
+  "image": "images2/112_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300129.jpeg",
+  "held": false,
+  "w0": 3211,
+  "w1": 3227
+ },
+ {
+  "n": 302,
+  "start": 1306.72,
+  "end": 1319.12,
+  "image": "images2/113_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300130.jpeg",
+  "held": false,
+  "w0": 3228,
+  "w1": 3265
+ },
+ {
+  "n": 303,
+  "start": 1319.12,
+  "end": 1323.96,
+  "image": "images2/114_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300131.jpeg",
+  "held": false,
+  "w0": 3266,
+  "w1": 3275
+ },
+ {
+  "n": 304,
+  "start": 1323.96,
+  "end": 1330.64,
+  "image": "images2/115_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300132.jpeg",
+  "held": false,
+  "w0": 3276,
+  "w1": 3296
+ },
+ {
+  "n": 305,
+  "start": 1330.98,
+  "end": 1337.6,
+  "image": "images2/116_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300133.jpeg",
+  "held": false,
+  "w0": 3299,
+  "w1": 3321
+ },
+ {
+  "n": 306,
+  "start": 1337.6,
+  "end": 1345.12,
+  "image": "images2/117_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300134.jpeg",
+  "held": false,
+  "w0": 3322,
+  "w1": 3341
+ },
+ {
+  "n": 307,
+  "start": 1345.12,
+  "end": 1347.68,
+  "image": "images2/118_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300135.jpeg",
+  "held": false,
+  "w0": 3342,
+  "w1": 3348
+ },
+ {
+  "n": 308,
+  "start": 1347.68,
+  "end": 1353.72,
+  "image": "images2/119_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300136.jpeg",
+  "held": false,
+  "w0": 3349,
+  "w1": 3358
+ },
+ {
+  "n": 309,
+  "start": 1353.72,
+  "end": 1355.36,
+  "image": "images2/120_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300137.jpeg",
+  "held": false,
+  "w0": 3359,
+  "w1": 3360
+ },
+ {
+  "n": 310,
+  "start": 1355.39,
+  "end": 1358.94,
+  "image": "images2/121_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300138.jpeg",
+  "held": false,
+  "w0": 3361,
+  "w1": 3368
+ },
+ {
+  "n": 311,
+  "start": 1358.94,
+  "end": 1361.6,
+  "image": "images2/122_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300138.jpeg",
+  "held": false,
+  "w0": 3369,
+  "w1": 3375
+ },
+ {
+  "n": 312,
+  "start": 1361.6,
+  "end": 1364.96,
+  "image": "images2/123_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300139.jpeg",
+  "held": false,
+  "w0": 3376,
+  "w1": 3384
+ },
+ {
+  "n": 313,
+  "start": 1364.96,
+  "end": 1370.0,
+  "image": "images2/124_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300140.jpeg",
+  "held": false,
+  "w0": 3385,
+  "w1": 3400
+ },
+ {
+  "n": 314,
+  "start": 1370.0,
+  "end": 1375.6,
+  "image": "images2/125_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300141.jpeg",
+  "held": false,
+  "w0": 3401,
+  "w1": 3415
+ },
+ {
+  "n": 315,
+  "start": 1375.6,
+  "end": 1385.64,
+  "image": "images2/126_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300142.jpeg",
+  "held": false,
+  "w0": 3416,
+  "w1": 3451
+ },
+ {
+  "n": 316,
+  "start": 1385.64,
+  "end": 1393.88,
+  "image": "images2/127_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300143.jpeg",
+  "held": false,
+  "w0": 3452,
+  "w1": 3476
+ },
+ {
+  "n": 317,
+  "start": 1393.88,
+  "end": 1395.8,
+  "image": "images2/128_Animated-illustration-style-warm-earthy-tones-semi_Animated_illustration_style,_warm_earthy_202605300144.jpeg",
+  "held": false,
+  "w0": 3477,
+  "w1": 3483
+ }
+]

@@ -39,8 +39,11 @@ def main():
     print("=== STEP 5: dust overlay ===")
     d1 = lib.WORK / "dust1.png"
     d2 = lib.WORK / "dust2.png"
-    make(seed=11, thresh=96, sigma=2.6, alpha=0.55, out=d1)
-    make(seed=47, thresh=97, sigma=1.9, alpha=0.40, out=d2)
+    # lower thresholds let more motes through; higher alpha makes them clearly visible
+    # (the old values were so sparse/faint the dust was easy to miss). Two layers at
+    # different densities are drifted at different speeds in step 7 for parallax depth.
+    make(seed=11, thresh=92, sigma=2.6, alpha=0.95, out=d1, gen_w=210, gen_h=118)
+    make(seed=47, thresh=93, sigma=1.9, alpha=0.70, out=d2, gen_w=195, gen_h=110)
     for d in (d1, d2):
         print(f"  {d.name}: avg luma {avg_luma(d):.2f}")
 

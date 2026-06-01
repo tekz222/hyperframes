@@ -65,7 +65,9 @@ def build_body_video(M, body_dur, plan):
     g.append(f"[{prev}][dA]overlay=x='-(mod(t*6,480))':y='-(mod(t*3.5,270))':"
              f"shortest=1[o1];")
     g.append(f"[o1][dB]overlay=x='-(mod(t*4,480))':y='-(mod(t*5,270))':shortest=1[o2];")
-    g.append("[o2]ass=work/captions.ass[vout]")
+    # fontsdir points libass at the bundled Montserrat Black, so captions render the
+    # same on any machine even if the font isn't installed system-wide.
+    g.append("[o2]ass=f=work/captions.ass:fontsdir=assets/fonts[vout]")
     sf = _script("fc_body_video.txt", "".join(g))
 
     out = lib.WORK / "body_video.mp4"

@@ -12,11 +12,12 @@ import json, re
 import lib
 
 # ---- caption styling (ASS) ----
-FONT        = "Arial"
-FONT_SIZE   = 64
-HL_COLOR    = "&H0030FFFF"   # active word: warm yellow  (AABBGGRR)
+FONT        = "Montserrat Black"   # heavy sans-serif, bundled in assets/fonts
+FONT_SIZE   = 78
+HL_COLOR    = "&H0000FFFF"   # active word: pure bright yellow (AABBGGRR -> R255 G255 B0)
 BASE_COLOR  = "&H00FFFFFF"   # inactive words: white
-OUTLINE     = "&H00101010"
+OUTLINE     = "&H00000000"   # pure black outline
+OUTLINE_W   = 7             # outline thickness (px) - thick so text reads on any image
 MAX_WORDS   = 5             # words per caption line
 MAX_CHARS   = 30            # or break a line once it gets this wide
 SENT_END    = re.compile(r'[.!?:]["”»)]?$')
@@ -54,7 +55,7 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Karaoke,{FONT},{FONT_SIZE},{BASE_COLOR},{BASE_COLOR},{OUTLINE},&H64000000,-1,0,0,0,100,100,0,0,1,4,1,2,80,80,170,1
+Style: Karaoke,{FONT},{FONT_SIZE},{BASE_COLOR},{BASE_COLOR},{OUTLINE},&H64000000,0,0,0,0,100,100,0,0,1,{OUTLINE_W},0,2,80,80,170,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -76,7 +77,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
                 continue
             parts = []
             for j, wj in enumerate(lwords):
-                txt = wj["raw"].replace("{", "(").replace("}", ")")
+                txt = wj["raw"].upper().replace("{", "(").replace("}", ")")
                 if j == k:
                     parts.append(r"{\c" + HL_COLOR + r"\fscx112\fscy112}" + txt +
                                  r"{\c" + BASE_COLOR + r"\fscx100\fscy100}")

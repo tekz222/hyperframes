@@ -1,42 +1,45 @@
 """Step 6 - render one Ken Burns clip per sentence.
 
 Each optimized image becomes a clip of length L[k] (span + incoming crossfade) with an
-eased (smoothstep) zoom + pan. Pan direction and zoom direction alternate per clip, so
-the assembled sequence reads as a slow continuous pendulum drift rather than robotic,
-constant-velocity motion. Clips are silent; audio is mixed at assembly.
+eased (smoothstep) zoom plus a slow, low-frequency sine sway, so the image appears to
+float / swing gently like a pendulum instead of panning on a straight line. The motion
+is rendered on a larger canvas and downscaled to 1080p, which averages out zoompan's
+per-frame integer rounding (the cause of the visible "shake"). Clips are silent; audio
+is mixed at assembly.
 
 Resumable: existing clips are skipped (use --force to rebuild). --upto SECONDS renders
 only the clips needed to cover the first SECONDS of the image section (fast preview);
 with no flag it renders the whole timeline (full assets).
 """
 from __future__ import annotations
-import sys, json, argparse
+import sys, json, argparse, math
 import lib
 
-SUPER_W, SUPER_H = 2560, 1440   # supersample canvas to smooth zoompan motion
+# Render the Ken Burns motion on a 1.5x canvas, then downscale to 1080p. The downscale
+# averages away zoompan's 1px x/y rounding each frame, which is what made the old output
+# look like it was shaking. Even dimensions keep libx264 happy.
+SUPER_W = (round(lib.W * 1.5) // 2) * 2     # 2880
+SUPER_H = (round(lib.H * 1.5) // 2) * 2     # 1620
 
 def kenburns_vf(idx, nframes):
     N = max(nframes, 2)
-    s  = f"(on/{N-1})"
-    sm = f"({s}*{s}*(3-2*{s}))"                      # smoothstep easing
-    z0, z1 = (1.06, 1.20) if idx % 2 == 0 else (1.20, 1.06)
+    t  = f"(on/{N-1})"                               # 0..1 across the clip
+    sm = f"({t}*{t}*(3-2*{t}))"                      # smoothstep easing for the zoom
+    z0, z1 = (1.08, 1.20) if idx % 2 == 0 else (1.20, 1.08)
     zexpr = f"({z0}+({z1-z0:.4f})*{sm})"
-    quad = idx % 4
-    fx0, fx1, fy0, fy1 = {
-        0: (0.12, 0.88, 0.50, 0.50),
-        1: (0.88, 0.12, 0.50, 0.50),
-        2: (0.50, 0.50, 0.12, 0.88),
-        3: (0.50, 0.50, 0.88, 0.12),
-    }[quad]
-    fx = f"min(1,max(0,{fx0}+({fx1-fx0:.3f})*{sm}+0.03*sin(2*PI*{s})))"
-    fy = f"min(1,max(0,{fy0}+({fy1-fy0:.3f})*{sm}+0.03*sin(2*PI*{s})))"
-    xexpr = f"(iw-iw/zoom)*({fx})"
-    yexpr = f"(ih-ih/zoom)*({fy})"
+    # Slow pendulum float: a single low-frequency sine sway (half a cycle per clip) with
+    # a per-clip phase offset so consecutive images swing in different directions. There
+    # is deliberately no high-frequency term, so the result drifts but never shakes.
+    phase = (idx % 4) * (math.pi / 2)
+    fx = f"(0.5+0.20*sin(PI*{t}+{phase:.5f}))"       # horizontal sway, +/-20% of pan room
+    fy = f"(0.5+0.12*cos(PI*{t}+{phase:.5f}))"       # gentler vertical sway
+    xexpr = f"(iw-iw/zoom)*{fx}"
+    yexpr = f"(ih-ih/zoom)*{fy}"
     return (
         f"scale={SUPER_W}:{SUPER_H}:force_original_aspect_ratio=increase,"
         f"crop={SUPER_W}:{SUPER_H},"
-        f"zoompan=z='{zexpr}':x='{xexpr}':y='{yexpr}':d={N}:s={lib.W}x{lib.H}:fps={lib.FPS},"
-        f"setsar=1,format=yuv420p"
+        f"zoompan=z='{zexpr}':x='{xexpr}':y='{yexpr}':d={N}:s={SUPER_W}x{SUPER_H}:fps={lib.FPS},"
+        f"scale={lib.W}:{lib.H}:flags=lanczos,setsar=1,format=yuv420p"
     )
 
 def render_one(k, entry, length, force=False):
